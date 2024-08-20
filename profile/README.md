@@ -25,9 +25,4 @@ Ils choisissent ainsi leur nom, voyant une origine à leur projet.
 
 **Asphodel EP (2023-2024)**
 
-Le groupe sort son premier EP le 27 septembre 2024. Il comporte 4 titres, pour les 4 histoires d'origine des protagonistes de leur univers. 
-
-- Berstuk
-- Kyllar
-- Zyagan
-- Izanagi
+Le groupe sort son premier EP le 27 septembre 2024. Il comporte 4 titres, pour les 4 histoires d'origine des protagonistes de leur univers.
