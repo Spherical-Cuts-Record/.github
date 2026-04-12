@@ -9,7 +9,7 @@ Sjel est un groupe de metal suisse originaire du Jura, créé en 2023 par 3 jura
 Leur style musical est décrit comme du métal progressif et djent. Ils s'inspirent de groupes comme Periphery, Meshuggah et TesseracT.  
 Le groupe combine de nombreux aspects artistiques en plus de la musique pour donner corps à leur projet.
 
-Ils réalisent leurs propres cinématographies grace à des logiciels de modélisation 3D comme Blender, fusionner avec Kaiber pour créer des scènes d'animations.
+Ils réalisent leurs propres cinématographies grace à des logiciels de modélisation 3D comme Blender pour créer des scènes d'animations.
 
 L'écriture d'une histoire dans le genre de l'héroïque fantaisie sert de socle narratif à leurs chansons.
 
